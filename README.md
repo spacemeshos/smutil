@@ -1,2 +1,3 @@
 # smutil
-Shared utilities for spacemesh repositories 
+
+Shared utilities for spacemesh repositories
